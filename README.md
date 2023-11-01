@@ -4,6 +4,6 @@
 - I code in: Python 🐍
 - I know: CSS and HTML 📄
 - I am currently learning: Java ☕
-- I want to learn: C/C++, C#, JavaScript, Rust 💻
-- I do: Games, Game Servers, Malware, etc. 🗃️
+- I want to learn: C/C++, C#, Android SDK, Rust 💻
+- I work on: Games, Game Servers, Malware, System Apps, etc. 🗃️
 - I love cats 😻
