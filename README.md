@@ -1,4 +1,4 @@
-# Hi, and welcome to my profile 😀
+# Hi, and welcome to my profile :3
 ### My name is luna 👈
 
 - I code in: Python 🐍
