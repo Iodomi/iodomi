@@ -1,5 +1,5 @@
 # Hi, and welcome to my profile :3
-### My name is luna 👈
+### My name is Luna 👈
 
 - I code in: Python 🐍
 - I know: CSS and HTML 📄
